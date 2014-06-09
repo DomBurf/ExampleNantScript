@@ -9,7 +9,7 @@ Nant is a powerful scripting tool and allows you to extend your build process fa
 
 The example Nant script suppled here performs the following basic tasks.
 
- - Validates the environment befpre proceeding
+ - Validates the environment before proceeding
  - Performs a Clean build
  - Performs a Debug build
  - Performs a Release build
@@ -17,7 +17,6 @@ The example Nant script suppled here performs the following basic tasks.
  - Creates the AssemblyInfo.cs file and versions it using a specified version number and the Subversion revision number
  
  
-I have created Nant script for building Android applications, FTP files to a web server and many other build related tasks.
 
 Usage
 =================
